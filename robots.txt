@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ichigo2003.github.io/al-folio/sitemap.xml
